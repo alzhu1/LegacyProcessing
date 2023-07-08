@@ -1,0 +1,18 @@
+#buttons {
+    float: left;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background-color: rgb(200,200,200);
+    color: rgb(0,0,0);
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+#frame {
+    width: 70%;
+    height: 90%;
+}
